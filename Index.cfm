@@ -1,1 +1,1 @@
-<cfoutput>Hello worlds</cfoutput>
+<cfoutput>Hello world</cfoutput>
